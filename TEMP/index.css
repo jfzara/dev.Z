@@ -1,0 +1,93 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.profileCard {
+  text-align: center;
+  border: solid 1px black;
+  padding: 20px;
+  background-color: #f3f3f3;
+  box-shadow: 8px 12px 120px 2px #b2b2b2;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.profilePicture {
+  width: 20%;
+  height: 80%;
+  object-fit: cover;
+  border-radius: 7px;
+  margin: 2em;
+}
+
+.description {
+  width: 80%;
+  padding: 2em 0;
+  margin: 0 auto;
+}
+
+.btnInfos {
+  cursor: pointer;
+  border: 1px solid blue;
+  padding: 1em 2em;
+  border-radius: 7px;
+  margin: 2em 0;
+  background-color: transparent;
+  transition: background-color 0.3s ease;
+}
+
+.btnInfos:hover,
+.btnInfos:focus {
+  background-color: white;
+  outline: none;
+}
+
+.infosPlus {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+}
+
+.infosPlus.visible {
+  max-height: 200px; /* ajuste selon ta hauteur */
+  opacity: 1;
+}
+
+.infos {
+  margin: 1em 0 0 0;
+}
+.competences{
+
+  height: auto;
+ width: auto;
+  padding: 2em;
+}
+.competence{
+  padding: 1em;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: start;
+
+  
+}
+
+.niveau{
+  width: 0%;
+  height: 10px;
+  background-color : blue;
+}
