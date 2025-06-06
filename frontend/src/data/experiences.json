@@ -1,92 +1,92 @@
 [
   {
     "id": "dom-interaction",
-    "title": "DOM & Events",
-    "description": "Mini-toggle et interactions JS",
-    "type": "Frontend",
-    "level": "Débutant",
-    "route": "/lab/dom-interaction",
-    "codeLink": "https://github.com/tonrepo/dom-interaction"
+    "titre": "DOM & Événements",
+    "description": "Mini-toggle et interactions JavaScript",
+    "categorie": "Frontend",
+    "niveau": "Débutant",
+    "chemin": "/lab/dom-interaction",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/dom-interaction"
   },
   {
     "id": "express-crud",
-    "title": "API Express CRUD",
+    "titre": "API Express CRUD",
     "description": "Mini API notes/tasks avec Express",
-    "type": "Backend",
-    "level": "Intermédiaire",
-    "route": "/lab/express-crud",
-    "codeLink": "https://github.com/tonrepo/express-crud"
+    "categorie": "Backend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/express-crud",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/express-crud"
   },
   {
     "id": "react-components",
-    "title": "React Components",
+    "titre": "Composants React",
     "description": "Création de composants fonctionnels et gestion de l'état",
-    "type": "Frontend",
-    "level": "Intermédiaire",
-    "route": "/lab/react-components",
-    "codeLink": "https://github.com/tonrepo/react-components"
+    "categorie": "Frontend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/react-components",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/react-components"
   },
   {
     "id": "node-auth-jwt",
-    "title": "Authentification JWT",
+    "titre": "Authentification JWT",
     "description": "Implémentation d'authentification avec JSON Web Tokens",
-    "type": "Backend",
-    "level": "Intermédiaire",
-    "route": "/lab/node-auth-jwt",
-    "codeLink": "https://github.com/tonrepo/node-auth-jwt"
+    "categorie": "Backend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/node-auth-jwt",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/node-auth-jwt"
   },
   {
     "id": "css-animations",
-    "title": "CSS Animations avancées",
-    "description": "Animations et transitions pour UI dynamique",
-    "type": "Frontend",
-    "level": "Intermédiaire",
-    "route": "/lab/css-animations",
-    "codeLink": "https://github.com/tonrepo/css-animations"
+    "titre": "Animations CSS avancées",
+    "description": "Animations et transitions pour interface dynamique",
+    "categorie": "Frontend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/css-animations",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/css-animations"
   },
   {
-  "id": "sql-crud",
-  "title": "CRUD SQL",
-  "description": "Gestion des données avec SQL (MySQL/PostgreSQL)",
-  "type": "Backend",
-  "level": "Intermédiaire",
-  "route": "/lab/sql-crud",
-  "codeLink": "https://github.com/tonrepo/sql-crud"
-},
+    "id": "sql-crud",
+    "titre": "CRUD SQL",
+    "description": "Gestion des données avec SQL (MySQL/PostgreSQL)",
+    "categorie": "Backend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/sql-crud",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/sql-crud"
+  },
   {
     "id": "async-js",
-    "title": "Programmation Asynchrone",
-    "description": "Utiliser async/await et Promises",
-    "type": "Frontend",
-    "level": "Débutant",
-    "route": "/lab/async-js",
-    "codeLink": "https://github.com/tonrepo/async-js"
+    "titre": "Programmation Asynchrone",
+    "description": "Utilisation de async/await et Promises",
+    "categorie": "Frontend",
+    "niveau": "Débutant",
+    "chemin": "/lab/async-js",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/async-js"
   },
   {
     "id": "rest-api-design",
-    "title": "Design d'API REST",
+    "titre": "Conception d'API REST",
     "description": "Création d'API RESTful avec bonnes pratiques",
-    "type": "Backend",
-    "level": "Intermédiaire",
-    "route": "/lab/rest-api-design",
-    "codeLink": "https://github.com/tonrepo/rest-api-design"
+    "categorie": "Backend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/rest-api-design",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/rest-api-design"
   },
   {
     "id": "react-router",
-    "title": "Routing React",
+    "titre": "Routing React",
     "description": "Navigation et gestion des routes avec React Router",
-    "type": "Frontend",
-    "level": "Intermédiaire",
-    "route": "/lab/react-router",
-    "codeLink": "https://github.com/tonrepo/react-router"
+    "categorie": "Frontend",
+    "niveau": "Intermédiaire",
+    "chemin": "/lab/react-router",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/react-router"
   },
   {
-    "id": "error-handling-node",
-    "title": "Gestion d'erreurs Node.js",
-    "description": "Middleware et bonnes pratiques pour erreurs API",
-    "type": "Backend",
-    "level": "Débutant",
-    "route": "/lab/error-handling-node",
-    "codeLink": "https://github.com/tonrepo/error-handling-node"
+    "id": "gestion-erreurs-node",
+    "titre": "Gestion d'erreurs Node.js",
+    "description": "Middleware et bonnes pratiques pour gestion des erreurs API",
+    "categorie": "Backend",
+    "niveau": "Débutant",
+    "chemin": "/lab/error-handling-node",
+    "lienGithub": "https://github.com/jfzara/dev.Z/tree/main/labs/error-handling-node"
   }
 ]
